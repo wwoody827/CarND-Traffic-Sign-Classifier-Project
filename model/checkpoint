@@ -1,0 +1,2 @@
+model_checkpoint_path: "trafNet_Inception"
+all_model_checkpoint_paths: "trafNet_Inception"
